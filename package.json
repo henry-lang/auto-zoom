@@ -1,0 +1,23 @@
+{
+  "name": "auto-zoom-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henry-lang/auto-zoom-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henry-lang/auto-zoom-web/issues"
+  },
+  "homepage": "https://github.com/henry-lang/auto-zoom-web#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4"
+  }
+}
